@@ -1,5 +1,5 @@
 # wkhtmltopdf_1und1_centos7
-No brainer install of wkhtmltopdf on a 1und1 cloud server with odoo 10 installation with CentOS7
+No brainer installation of wkhtmltopdf on a 1und1 cloud server with odoo 10 installation with CentOS7
 
 This is probably the fastest way to install wkhtmltopdf on a 1und1 cloud server with CentOS7 and Odoo 10 installed. 
 Just copy wkhtmltopdf.sh to your root (via FTP) and execute it (via SSH or KVM Console).
